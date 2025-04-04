@@ -1,0 +1,73 @@
+== European Solutions
+
+* OVHcloud (France);
+* Scaleway (France);
+* Hetzner (Germany);
+* IONOS by 1&1 (Germany);
+* Exoscale (Switzerland);
+* Cleura (Sweden);
+* GAIA-X (European Initiative).
+
+=== OVHcloud
+
+* Services (IaaS/PaaS/SaaS) : IaaS, PaaS, SaaS
+* Sovereignty & GDPR : Yes (100% EU)
+* Prices : Competitive
+* Localization of the Data Centers : France, Europe, North America
+* Specifics : European leader, complete offer
+* Strengths : Competitive prices, european data centers, GDPR
+
+=== Scaleway (Group Iliad (Free))
+
+* Services (IaaS/PaaS/SaaS) : IaaS, PaaS
+* Sovereignty & GDPR :Yes
+* Prices : Very good
+* Localization of the Data Centers : France, Netherlands, Poland
+* Specifics : Moderne, eco-responsible (100% renewable energy
+* Strengths : Developer oriented and modern (Kubernetes, Terraform, etc.), well thought out API
+
+=== Hetzner
+
+* Services (IaaS/PaaS/SaaS) : IaaS
+* Sovereignty & GDPR : *Partial*
+* Prices : Very low
+* Localization of the Data Centers : Germany, Finland
+* Specifics : Very good on quality/price
+* Strengths : Competitive pricing, reliable performance
+
+=== IONOS
+
+* Services (IaaS/PaaS/SaaS) : IaaS, PaaS, SaaS
+* Sovereignty & GDPR : Yes
+* Prices : Middle of the line
+* Localization of the Data Centers : Germany, Spain, UK, USA
+* Specifics : Security and support
+* Strengths : Security, solid infrastructure, good support
+
+=== Exoscale
+
+
+* Services (IaaS/PaaS/SaaS) : IaaS, Kubernetes, DNS
+* Sovereignty & GDPR : Yes (Switzerland/EU)
+* Prices : Middle of the line
+* Localization of the Data Centers : Switzerland, Germany, Austria
+* Specifics : Security, simple, and clear
+* Strengths : Good for startups and tech sensitive projects
+
+=== Cleura
+
+* Services (IaaS/PaaS/SaaS) : IaaS (OpenStack)
+* Sovereignty & GDPR : Yes
+* Prices : Middle of the line
+* Localization of the Data Centers : Sweden, Germany, Norway
+* Specifics : GAIA-X partner, cloud sovereignty
+* Strengths : OpenStack, complete cloud sovereignty, GDPR conformity
+
+=== GAIA-X
+
+* Services (IaaS/PaaS/SaaS) : (Initiative)
+* Sovereignty & GDPR : Objective = sovereignty
+* Prices : -
+* Localization of the Data Centers : -
+* Specifics : Upcomming european standard
+* Strengths : OVHcloud, T-Systems (Deutsche Telekom), Atos, etc are members

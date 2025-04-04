@@ -13,4 +13,8 @@ include::./section/the-market.adoc[]
 
 include::./section/risks.adoc[]
 
+include::./section/european-solutions.adoc[]
+
 == Thanks, That's All Folks :)
+
+git@github.com:cedricms/european-cloud-presentation.git
