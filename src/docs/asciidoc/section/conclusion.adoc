@@ -1,0 +1,6 @@
+== Conclusion
+
+* Usable right away :
+** *OVHcloud*;
+** *Scaleway*.
+* Probably the european futur => *GAIA-X*

@@ -35,6 +35,8 @@ include::./section/documentation-certification.adoc[]
 
 include::./section/poc-funding.adoc[]
 
+include::./section/conclusion.adoc[]
+
 == Thanks, That's All Folks :)
 
 git@github.com:cedricms/european-cloud-presentation.git
