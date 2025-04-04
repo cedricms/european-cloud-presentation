@@ -1,5 +1,7 @@
 = European Cloud
 
+image::./img/european-cloud.jpg[European Cloud,width=40%,height=40%]
+
 Why and what solutions?
 
 [.notes]
@@ -30,6 +32,8 @@ include::./section/european-solutions.adoc[]
 include::./section/european-services.adoc[]
 
 include::./section/documentation-certification.adoc[]
+
+include::./section/poc-funding.adoc[]
 
 == Thanks, That's All Folks :)
 

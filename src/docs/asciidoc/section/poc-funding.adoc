@@ -1,0 +1,19 @@
+== PoC & Funding Support
+
+[cols="1,1,1,1"]
+|===
+|Provider |PoC Funding / Credits |rograms or Grants |Notes
+
+|*OVHcloud* |✅ Yes |*OVHcloud Startup Program* (up to €100k credits) |For startups, innovation projects, research – includes mentorship & visibility
+
+|*Scaleway* |✅ Yes |*Scaleway Startup Program* (up to €36k credits) |Good for cloud-native apps, AI, containerized workloads
+
+|*Hetzner* |❌ No formal program |– |Low-cost provider but no startup/PoC support
+
+|*IONOS* |⚠️ Case-by-case |Not public; possible B2B partnerships |Might support through sales if enterprise-level
+
+|*Exoscale* |⚠️ Limited |Some collaborations with universities |Reach out directly for research or niche projects
+
+|*Cleura* |⚠️ Possibly for gov/edu |Focus on public sector and eHealth |Might fund EU research or public cloud migration (especially OpenStack)
+
+|===

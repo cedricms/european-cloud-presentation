@@ -70,4 +70,4 @@
 * Prices : -
 * Localization of the Data Centers : -
 * Specifics : Upcomming european standard
-* Strengths : OVHcloud, T-Systems (Deutsche Telekom), Atos, etc are members
+* Strengths : OVHcloud, Scaleway, Orange, T-Systems (Deutsche Telekom), Atos, etc are members
