@@ -1,0 +1,9 @@
+.reveal table {
+    max-width: 100%;
+    width: auto;
+    table-layout: auto;
+    overflow-x: auto;
+    display: block;
+    font-size: 0.9em; /* Optional: reduce font size */
+    margin: 0 auto; /* Center the table */
+}

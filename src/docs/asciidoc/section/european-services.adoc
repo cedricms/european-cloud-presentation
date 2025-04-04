@@ -1,0 +1,18 @@
+== Services
+
+[cols="1,1,1,1,1,1,1,1,1,1,1"]
+|===
+|Provider |Compute (VMs) |Kubernetes |Serverless |Object Storage |Block Storage |DBaaS (Managed DB) |CDN |AI/ML Services |CI/CD Tools |SaaS (Email, Office, etc.)
+
+|*OVHcloud* |✅ Yes |✅ Yes |⚠️ Limited |✅ Yes |✅ Yes |✅ Yes (e.g. PostgreSQL, MySQL) |✅ |⚠️ Basic tools |⚠️ Basic tools |✅ (Hosted Exchange, email, etc.)
+
+|*Scaleway* |✅ Yes |✅ Yes |✅ Yes |✅ Yes |✅ Yes |✅ Yes |✅ |✅ (AI training, GPU) |⚠️ Limited |⚠️ Not their focus
+
+|*Hetzner* |✅ Yes |⚠️ Experimental via Rancher |❌ No |✅ Yes |✅ Yes |❌ No |❌ |❌ |❌ |❌
+
+|*IONOS* |✅ Yes |⚠️ Limited (Kubernetes via CloudPanel) |❌ No |✅ Yes |✅ Yes |✅ Yes |✅ |❌ |❌ |✅ (Email, Domains, Webmail)
+
+|*Exoscale* |✅ Yes |✅ Yes |❌ No |✅ Yes |✅ Yes |✅ Yes |❌ |❌ |❌ |❌
+
+|*Cleura* |✅ Yes |✅ Yes (via OpenStack Magnum) |❌ No |✅ Yes |✅ Yes |⚠️ Limited |❌ |❌ |❌ |❌
+|===

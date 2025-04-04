@@ -9,11 +9,25 @@ Why and what solutions?
 * Fullscreen : f
 --
 
+++++
+<style>
+.reveal table {
+  max-width: 100%;
+  font-size: 0.3em;
+  display: block;
+  overflow:scroll;
+  overflow-x: auto;
+}
+</style>
+++++
+
 include::./section/the-market.adoc[]
 
 include::./section/risks.adoc[]
 
 include::./section/european-solutions.adoc[]
+
+include::./section/european-services.adoc[]
 
 == Thanks, That's All Folks :)
 
