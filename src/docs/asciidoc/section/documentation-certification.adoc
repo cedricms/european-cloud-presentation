@@ -1,0 +1,4 @@
+== Documentation & Certification
+
+* Documentation : good and numerous except for *Cleura*;
+* Certification : Under development. *OVHcloud* and *Scaleway* are the most advanced.

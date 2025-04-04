@@ -29,6 +29,8 @@ include::./section/european-solutions.adoc[]
 
 include::./section/european-services.adoc[]
 
+include::./section/documentation-certification.adoc[]
+
 == Thanks, That's All Folks :)
 
 git@github.com:cedricms/european-cloud-presentation.git
