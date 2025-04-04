@@ -9,7 +9,7 @@ Why and what solutions?
 * Fullscreen : f
 --
 
-// include::./section/a-bit-about-git.adoc[]
+include::./section/the-market.adoc[]
 //
 // include::./section/git-objects.adoc[]
 //
