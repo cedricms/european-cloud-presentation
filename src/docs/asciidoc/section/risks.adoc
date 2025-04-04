@@ -1,0 +1,21 @@
+== Risks
+
+=== Data
+
+* **C**larifying **L**awful **O**verseas **U**se of **D**ata Act (CLOUD Act : march 2018) :
+** Data Sovereignty;
+** Intellectual Property.
+* Data Loss : Major hacking targets (cloud misconfiguration).
+
+[.notes]
+--
+CLOUD Act : allows federal law enforcement to compel U.S.-based technology companies via warrant or subpoena to provide requested data stored on servers regardless of whether the data are stored in the U.S. or on foreign soil.
+
+Threat actors can exploit system and network misconfigurations as entry points that potentially allow them to move laterally across the network and access confidential resources. Misconfigurations can occur due to overlooked system areas or improper security settings.
+--
+
+=== Lack of Visibility
+
+* Network operations;
+* Services;
+* Resource usage and cost.

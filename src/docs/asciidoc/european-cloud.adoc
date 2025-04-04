@@ -10,25 +10,7 @@ Why and what solutions?
 --
 
 include::./section/the-market.adoc[]
-//
-// include::./section/git-objects.adoc[]
-//
-// include::./section/main-commands.adoc[]
-//
-// include::./section/daily-routine.adoc[]
-//
-// include::./section/craft-you-commit-messages.adoc[]
-//
-// include::./section/something-more-important-has-come-up.adoc[]
-//
-// include::./section/we-re-working-on-multiple-versions.adoc[]
-//
-// include::./section/to-merge-or-to-rebase.adoc[]
-//
-// include::./section/your-git-history-is-a-mess.adoc[]
-//
-// include::./section/find-a-bug.adoc[]
-//
-// include::./section/workflows.adoc[]
 
-== That's All Folks :)
+include::./section/risks.adoc[]
+
+== Thanks, That's All Folks :)
